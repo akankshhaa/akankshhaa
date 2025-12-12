@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akanksha Vinchankar</h1>
+<h1 align="center">Hi 👋, I'm Akanksha</h1>
 <h3 align="center">Welcome to my GitHub! I’m a motivated and quick learner with a degree in Information Technology. I specialize in frontend development and software testing. Explore my work and feel free to connect!</h3>
 
 <h3 align="left">Languages and Tools:</h3>
