@@ -46,19 +46,29 @@
 <h4>Internships</h4>
 <ul>
   <li>
-    <strong>Persistent Systems (May 2023 - July 2023)</strong><br />
+    <strong>Persistent Systems (July 2024 - September 2024)</strong><br />
     <ul>
       <li>Developed responsive UI components using <strong>React.js</strong>, <strong>JavaScript</strong>, <strong>HTML</strong>, and <strong>CSS</strong>.</li>
       <li>Implemented efficient state management to ensure smooth and reliable functionality.</li>
     </ul>
   </li>
   <li>
-    <strong>Infotact Solutions (June 2025 - August 2025)</strong><br />
+    <strong>Infotact Solutions (May 2025 - August 2025)</strong><br />
     <ul>
       <li>Built reusable frontend components using <strong>React.js</strong> and <strong>Tailwind CSS</strong>.</li>
       <li>Improved UI performance and design to enhance the overall user experience and application responsiveness.</li>
     </ul>
   </li>
+  <li>
+    <strong>SsquareIT (Sept 2025 - Present) - QA Tester Intern</strong><br />
+    <ul>
+      <li>Executed manual test cases for application functionality and UI across multiple modules.</li>
+      <li>Performed <strong>smoke</strong>, <strong>sanity</strong>, <strong>functional</strong>, and <strong>regression testing</strong>.</li>
+      <li>Logged and tracked defects using <strong>Jira</strong>, ensuring correct severity and priority.</li>
+      <li>Developed basic <strong>Selenium</strong> automation scripts for repetitive test cases.</li>
+    </ul>
+  </li>
+  
 </ul>
 
 <h3 align="left">Skills:</h3>
@@ -89,4 +99,3 @@
   <li><a href="https://akanksha-vinchankar.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=googlechrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo" /></a></li>
 </ul>
-
