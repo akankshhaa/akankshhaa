@@ -42,19 +42,19 @@ Explore my work and feel free to connect!
 <h3 align="left">🧰 Skills</h3>
 
 <strong>Manual Testing:</strong><br>
-`Functional Testing` • `Regression Testing` • `Smoke Testing` • `Sanity Testing` • `UI Testing` • `Negative Testing` • `Boundary Value Testing` • `Test Case Design` • `Test Case Execution`<br><br>
+• `Functional Testing` • `Regression Testing` • `Smoke Testing` • `Sanity Testing` • `UI Testing` • `Negative Testing` • `Boundary Value Testing` • `Test Case Design` • `Test Case Execution`
 
 <strong>Automation Testing:</strong><br>
-`Selenium WebDriver` • `Core Java`<br><br>
+• `Selenium WebDriver` • `Core Java`
 
 <strong>Database:</strong><br>
-`SQL` • `CRUD Operations` • `Basic Joins`<br><br>
+• `SQL` • `CRUD Operations` • `Basic Joins`
 
 <strong>Tools:</strong><br>
-`Jira` • `Git` • `GitHub` • `MS Excel` • `VS Code` • `Eclipse` • `Postman`<br><br>
+• `Jira` • `Git` • `GitHub` • `MS Excel` • `VS Code` • `Eclipse` • `Postman`
 
 <strong>Methodology:</strong><br>
-`Agile` • `Scrum`<br>
+• `Agile` • `Scrum`<br>
 
 <hr>
 
